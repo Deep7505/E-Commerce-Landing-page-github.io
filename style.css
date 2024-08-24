@@ -606,7 +606,7 @@ ul li ul.dropdown-Single-Post-child li a {
 .nav-icon-box {
     width: 20%;
     height: 40px;
-    /* border: 1px solid rgb(11, 11, 11); */
+    border: 1px solid rgb(11, 11, 11);
 }
 
 .nav-icon-box a {
